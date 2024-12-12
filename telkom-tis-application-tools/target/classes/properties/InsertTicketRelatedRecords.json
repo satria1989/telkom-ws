@@ -1,0 +1,32 @@
+[
+   {
+      "title":"Configure Insert Ticket Gamas to Impacted Service ",
+      "properties":[
+         {
+            "name":"url",
+            "label":"URL API",
+            "type":"textfield",
+            "value":"",
+            "required":"true"
+         },{
+            "name":"api_id",
+            "label":"API ID",
+            "type":"textfield",
+            "value":"",
+            "required":"true"
+         },{
+            "name":"api_key",
+            "label":"API Key",
+            "type":"textfield",
+            "value":"",
+            "required":"true"
+         },{
+            "name": "processIdIncident",
+            "label": "Process Id Incident",
+            "type": "textfield",
+            "value": "",
+            "required": "true"
+        }
+      ]
+   }
+]

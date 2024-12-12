@@ -1,0 +1,23 @@
+[{
+        "title" : "Update Ticket Status Deadline Properties",
+        "properties" : [{
+                "name" : "status",
+                "label" : "Status",
+                "type" : "selectbox",
+                "value" : "true",
+                "options" : [{
+                        "value" : "BACKEND",
+                        "label" : "BACKEND"
+                    },{
+                        "value" : "CLOSED",
+                        "label" : "CLOSED"
+                    },{
+                        "value" : "SALAMSIM",
+                        "label" : "SALAMSIM"
+                    },{
+                        "value" : "ANALYSIS",
+                        "label" : "ANALYSIS"
+                    }
+                    ]
+            }]
+    }]

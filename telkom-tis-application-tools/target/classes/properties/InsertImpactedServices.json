@@ -1,0 +1,9 @@
+[{
+    "title" : "Insert Impacted Services",
+    "properties" : [{
+        "name" : "deviceId",
+        "label" : "Device ID",
+        "type" : "textfield",
+        "value" : "ODP-CMS-FCH/018 FCH/D03/018.01"
+    }]
+}]

@@ -1,0 +1,27 @@
+[{
+        "title": "General Properties",
+        "properties": 
+                [
+                    {
+                        "name": "dbDriver",
+                        "label": "Joget DB Driver",
+                        "type": "textfield",
+                        "required": "true"
+                    }, {
+                        "name": "dbUrl",
+                        "label": "Joget DB URL",
+                        "type": "textfield",
+                        "required": "true"
+                    }, {
+                        "name": "dbUsername",
+                        "label": "Joget DB Username",
+                        "type": "textfield",
+                        "required": "true"
+                    }, {
+                        "name": "dbPassword",
+                        "label": "Joget DB Password",
+                        "type": "textfield",
+                        "required": "true"
+                    }
+                ]
+    }]

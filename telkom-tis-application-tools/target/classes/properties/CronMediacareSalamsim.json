@@ -1,0 +1,38 @@
+[{
+        "title": "Scheduler Mediacare to Salamsim",
+        "properties": 
+                [
+                    {
+                        "name": "kind_of_time",
+                        "label": "Type of Time",
+                        "type": "SelectBox",
+                        "required": "true",
+                        "options": [
+                            {
+                                "value": "minute",
+                                "label": "Minute"
+                            },
+                            {
+                               "value": "hour",
+                                "label": "Hour"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "dcs",
+                            "label": "DCS",
+                            "type": "textfield",
+                            "required": "true",
+                            "value": "6",
+                            "description": "6 (in hour)"
+                        },
+                        {
+                            "name": "non_dcs",
+                            "label": "Non DCS",
+                            "type": "textfield",
+                            "required": "true",
+                            "value": "24",
+                            "description": "24 (in hour)"
+                        }
+                    ]
+            }]

@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Upload File API",
+        "properties": [
+            {
+                "name": "formDefId",
+                "label": "Form Source",
+                "type": "SelectBox",
+                "options_ajax": "[CONTEXT_PATH]/web/json/console/app[APP_PATH]/forms/options",
+                "required": "true"
+            },
+            {
+                "name": "fieldId",
+                "label": "File Upload Field ID",
+                "type": "TextField",
+                "required": "true"
+            }
+        ]
+    }
+]

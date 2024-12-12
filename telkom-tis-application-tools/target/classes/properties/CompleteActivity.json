@@ -1,0 +1,13 @@
+[{
+        "title": "Complete Activity",
+        "properties": 
+                [
+                    {
+                        "name": "recordId",
+                        "label": "Record Id",
+                        "type": "textfield",
+                        "required": "true",
+                        "value": "#form.parent_ticket.id#"
+                    }
+                ]
+    }]

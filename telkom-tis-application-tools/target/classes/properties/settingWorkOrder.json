@@ -1,0 +1,10 @@
+[{
+    "title": "Background process properties",
+    "properties": [{
+            "name": "processIdIncident",
+            "label": "Process Id Incident",
+            "type": "textfield",
+            "value": "",
+            "required": "true"
+        }]
+}]
