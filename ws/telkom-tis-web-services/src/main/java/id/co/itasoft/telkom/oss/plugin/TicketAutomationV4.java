@@ -377,7 +377,7 @@ public class TicketAutomationV4 extends Element implements PluginWebSupport {
             }
         }
 
-        if ("76".equals(channel) && "".equals(serviceNumber) & "".equals(serviceType)) {
+        if ("76".equals(channel) && "".equals(serviceNumber) && "".equals(serviceType)) {
             channel76Validation = false;
         }
 
