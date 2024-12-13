@@ -48,6 +48,7 @@ import org.joget.commons.util.SysInfo;
 public class APISendWhatsapp extends Element implements PluginWebSupport {
 
     public static String pluginName = "Telkom New OSS - Ticket Incident Services - Call API Non Joget";
+    
     LogInfo info = new LogInfo();
 
     @Override
